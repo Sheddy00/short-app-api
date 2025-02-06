@@ -1,0 +1,8 @@
+FRONTEND :
+Design :
+    À voir :
+        - nav bar : product_name, profil name and photo >> profil, logout
+        - footer : author_email
+        - list of all appointment,  
+BACKEND :
+    
